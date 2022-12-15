@@ -28,16 +28,16 @@ var questions = [ {
 },
 
 {
-  question : " What is my favorite ? ",
+  question : " What is my favorite sport ? ",
   answer : "football"
 },
 {
-  question : "What is my favour ? ",
-  answer : ""
+  question : "What is my favourite color ? ",
+  answer : "blue"
 },
 {
-  question : "What is my ?",
-  answer : ""
+  question : "What is my favourite food ?",
+  answer : "rajma"
 }
 
 
